@@ -1,16 +1,64 @@
-## Hi there 👋
+Hi, I’m Gustavo
 
-<!--
-**gustavosullivan/gustavosullivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Atitus
+Full Stack Developer (Front-End & Back-End)
+Game Developer (Unity & Unreal Engine)
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a Computer Science student focused on software development and technology. My main area of interest is web development, working across both front-end and back-end, building responsive applications, APIs, and systems integrated with databases.
+
+Alongside web development, I also study game development, where I enjoy combining programming, logic, and creativity using Unity and Unreal Engine.
+
+I prefer learning through practice and real projects. When I face something I don’t know yet, I take time to study, test, and improve until I fully understand it.
+
+Technologies & Tools
+
+Web Development
+
+JavaScript
+
+React
+
+Node.js
+
+PostgreSQL
+
+RESTful APIs
+
+Game Development
+
+Unity
+
+Unreal Engine
+
+Other Skills
+
+Responsive layouts
+
+Database integration
+
+Problem-solving mindset
+
+Clean and organized code
+
+What I’m Working On
+
+Improving my Full Stack development skills
+
+Building personal projects to strengthen my portfolio
+
+Learning more about game systems and mechanics
+
+Goals
+
+Grow as a Full Stack Developer
+
+Gain professional experience in software development
+
+Build applications and games that solve real problems
+
+Contact
+
+Email: gubportela@gmail.com
+LinkedIn: www.linkedin.com/in/gustavobportelacc
