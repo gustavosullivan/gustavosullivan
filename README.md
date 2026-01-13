@@ -1,64 +1,45 @@
-Hi, I’m Gustavo
+Olá, eu sou o Gustavo
+Estudante de Ciência da Computação na Atitus
+Desenvolvedor Full Stack (Front-End & Back-End)
+Desenvolvedor de Jogos (Unity & Unreal Engine)
 
-Computer Science student at Atitus
-Full Stack Developer (Front-End & Back-End)
-Game Developer (Unity & Unreal Engine)
+Sobre mim:
 
-About Me
+Sou estudante de Ciência da Computação com foco em desenvolvimento de software e tecnologia. Minha principal área de interesse é o desenvolvimento web, atuando tanto no front-end quanto no back-end, criando aplicações responsivas, APIs e sistemas integrados a bancos de dados.
+Além do desenvolvimento web, também estudo desenvolvimento de jogos, onde gosto de combinar programação, lógica e criatividade utilizando Unity e Unreal Engine.
+Prefiro aprender por meio da prática e de projetos reais. Quando me deparo com algo que ainda não domino, dedico tempo para estudar, testar e evoluir até compreender bem o problema.
 
-I’m a Computer Science student focused on software development and technology. My main area of interest is web development, working across both front-end and back-end, building responsive applications, APIs, and systems integrated with databases.
+Tecnologias & Ferramentas
+Desenvolvimento Web
 
-Alongside web development, I also study game development, where I enjoy combining programming, logic, and creativity using Unity and Unreal Engine.
+* JavaScript
+* React
+* Node.js
+* PostgreSQL
+* APIs RESTful
+* Desenvolvimento de Jogos
+* Unity
+* Unreal Engine
 
-I prefer learning through practice and real projects. When I face something I don’t know yet, I take time to study, test, and improve until I fully understand it.
+Outras Habilidades:
+* Layouts responsivos
+* Integração com banco de dados
+* Mentalidade voltada à resolução de problemas
+* Código limpo e organizado
 
-Technologies & Tools
+No que estou trabalhando atualmente:
 
-Web Development
+* Aprimorando minhas habilidades em desenvolvimento Full Stack
+* Criando projetos pessoais para fortalecer meu portfólio
+* Aprendendo mais sobre sistemas e mecânicas de jogos
 
-JavaScript
+Objetivos
 
-React
+* Evoluir como Desenvolvedor Full Stack
+* Conquistar experiência profissional em desenvolvimento de software
+* Criar aplicações e jogos que resolvam problemas reais
 
-Node.js
+Contato
 
-PostgreSQL
-
-RESTful APIs
-
-Game Development
-
-Unity
-
-Unreal Engine
-
-Other Skills
-
-Responsive layouts
-
-Database integration
-
-Problem-solving mindset
-
-Clean and organized code
-
-What I’m Working On
-
-Improving my Full Stack development skills
-
-Building personal projects to strengthen my portfolio
-
-Learning more about game systems and mechanics
-
-Goals
-
-Grow as a Full Stack Developer
-
-Gain professional experience in software development
-
-Build applications and games that solve real problems
-
-Contact
-
-Email: gubportela@gmail.com
-LinkedIn: www.linkedin.com/in/gustavobportelacc
+* Email: gubportela@gmail.com
+* LinkedIn: www.linkedin.com/in/gustavobportelacc
