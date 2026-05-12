@@ -1,8 +1,7 @@
 # Olá, eu sou Gustavo 
 
- Desenvolvedor Full Stack
- Estudante de Ciência da Computação — Atitus
- Atualmente trabalhando com desenvolvimento de sistemas web para balanças industriais
+Desenvolvedor Full Stack
+Estudante de Ciências da computação na Atitus
 
 ## Sobre mim
 
