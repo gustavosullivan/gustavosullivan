@@ -13,7 +13,7 @@ Atuo no desenvolvimento Full Stack utilizando tecnologias modernas para constru√
 * Email: [gubportela@gmail.com](mailto:gubportela@gmail.com)
 * LinkedIn: [www.linkedin.com/in/gustavobportelacc](https://www.linkedin.com/in/gustavobportelacc)
   
-<## Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <p align="left">
 
