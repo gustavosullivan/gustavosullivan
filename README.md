@@ -13,6 +13,7 @@ Atuo no desenvolvimento Full Stack utilizando tecnologias modernas para constru√
 * Email: [gubportela@gmail.com](mailto:gubportela@gmail.com)
 * LinkedIn: [www.linkedin.com/in/gustavobportelacc](https://www.linkedin.com/in/gustavobportelacc)
   
+
 ## Tecnologias & Ferramentas
 
 <p align="left">
@@ -25,6 +26,10 @@ Atuo no desenvolvimento Full Stack utilizando tecnologias modernas para constru√
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 
 </p>
-
