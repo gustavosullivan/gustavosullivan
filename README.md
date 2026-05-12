@@ -1,43 +1,58 @@
-Olá, eu sou o Gustavo
-Estudante de Ciência da Computação na Atitus
-Desenvolvedor Full Stack (Front-End & Back-End)
-Desenvolvedor de Jogos (Unity & Unreal Engine)
+# Olá, eu sou Gustavo 
 
-Sobre mim:
+ Desenvolvedor Full Stack
+ Estudante de Ciência da Computação — Atitus
+ Atualmente trabalhando com desenvolvimento de sistemas web para balanças industriais
 
-Sou estudante de Ciência da Computação com foco em desenvolvimento de software e tecnologia. Minha principal área de interesse é o desenvolvimento web, atuando tanto no front-end quanto no back-end, criando aplicações responsivas, APIs e sistemas integrados a bancos de dados.
-Além do desenvolvimento web, também estudo desenvolvimento de jogos, onde gosto de combinar programação, lógica e criatividade utilizando Unity e Unreal Engine.
-Prefiro aprender por meio da prática e de projetos reais. Quando me deparo com algo que ainda não domino, dedico tempo para estudar, testar e evoluir até compreender bem o problema.
+## Sobre mim
 
-Tecnologias & Ferramentas
-Desenvolvimento Web
+Atuo no desenvolvimento Full Stack utilizando tecnologias modernas para construção de aplicações web, APIs e integrações com banco de dados.
 
-* JavaScript
-* React
-* Node.js
+Atualmente trabalho com foco em aplicações utilizando FastAPI, React, Docker e PostgreSQL, participando do desenvolvimento e manutenção de sistemas reais em ambiente profissional.
+
+Tenho interesse principalmente em arquitetura de aplicações, desenvolvimento web e resolução de problemas através da tecnologia.
+
+## Tecnologias & Ferramentas
+
+### Back-End
+
+* Python
+* FastAPI
 * PostgreSQL
-* APIs RESTful
-* Desenvolvimento de Jogos
-* Unity
-* Unreal Engine
+* Docker
+* APIs REST
 
-Outras Habilidades:
-* Layouts responsivos
-* Integração com banco de dados
-* Mentalidade voltada à resolução de problemas
-* Código limpo e organizado
+### Front-End
 
-No que estou trabalhando atualmente:
+* React
+* JavaScript / TypeScript
+* Material UI
+
+### Deploy & Ferramentas
+
+* Render
+* Netlify
+* PgAdmin 4
+* Git & GitHub
+
+## Atualmente
 
 * Aprimorando minhas habilidades em desenvolvimento Full Stack
-* Criando projetos pessoais para fortalecer meu portfólio
-* Aprendendo mais sobre sistemas e mecânicas de jogos
+* Construindo projetos para fortalecer meu portfólio
+* Estudando arquitetura, performance e segurança de aplicações web
 
-Objetivos
+## Contato
 
-* Evoluir como Desenvolvedor Full Stack
-* Conquistar experiência profissional em desenvolvimento de software
-* Criar aplicações e jogos que resolvam problemas reais
+<p align="left">
+  <a href="https://www.linkedin.com/in/gustavobportelacc" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:gubportela@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
 ## Contato
 
 <p align="left">
