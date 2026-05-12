@@ -38,8 +38,20 @@ Objetivos
 * Evoluir como Desenvolvedor Full Stack
 * Conquistar experiência profissional em desenvolvimento de software
 * Criar aplicações e jogos que resolvam problemas reais
+## Contato
 
-Contato
+<p align="left">
+  <a href="mailto:gubportela@gmail.com">
+    <img 
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
+  </a>
 
-* Email: gubportela@gmail.com
-* LinkedIn: www.linkedin.com/in/gustavobportelacc
+  <a href="https://www.linkedin.com/in/gustavobportelacc" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+</p>
