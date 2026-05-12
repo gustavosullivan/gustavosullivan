@@ -8,36 +8,23 @@
 
 Atuo no desenvolvimento Full Stack utilizando tecnologias modernas para construção de aplicações web, APIs e integrações com banco de dados, Atualmente trabalho com foco em aplicações utilizando FastAPI, React, Docker e PostgreSQL, participando do desenvolvimento e manutenção de sistemas reais em ambiente profissional, Tenho interesse principalmente em arquitetura de aplicações, desenvolvimento web e resolução de problemas através da tecnologia.
 
-## Tecnologias & Ferramentas
-
-### Back-End
-
-* Node
-* Python
-* FastAPI
-* PostgreSQL
-* Docker
-* APIs REST
-* React
-* JavaScript / TypeScript
-* Render
-* PgAdmin 4
-* Git & GitHub
-
 ## Contato
 
-<p align="left">
-  <a href="mailto:gubportela@gmail.com">
-    <img 
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Gmail"
-    />
-  </a>
+* Email: [gubportela@gmail.com](mailto:gubportela@gmail.com)
+* LinkedIn: [www.linkedin.com/in/gustavobportelacc](https://www.linkedin.com/in/gustavobportelacc)
+  
+## Tecnologias & Ferramentas
 
-  <a href="https://www.linkedin.com/in/gustavobportelacc" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
+<p align="left">
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+
 </p>
+
